@@ -33,7 +33,7 @@ footer {
 .centered-link {
     text-align: center;
     text-decoration: none;
-    color: rgb(54, 163, 54)
+    color: rgb(29, 95, 29)
 }
 
 /* varauskalenteri lähde:
@@ -51,7 +51,7 @@ footer {
 }
 
 .tekstikorostus {
-    color: rgb(54, 163, 54)
+    color: rgb(29, 95, 29)
 }
 
 
@@ -162,6 +162,11 @@ footer {
         font-size: 18px;
         line-height: 1.5;
     }
+
+
+
+
+}
 
 
 
